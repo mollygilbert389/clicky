@@ -1,0 +1,16 @@
+.wrapper {
+  padding-top: 50px;
+  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/93NxU-b/loopable-tileable-stars-pattern-realistic-stars-slowly-twinkle-in-the-night-sky-seamless-tile-can-be-combined-into-8k-or-larger-frame-by-placing-clip-copies-side-by-side_vkpg6uy2__F0000.png");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: 100%;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}

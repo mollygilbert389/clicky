@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "crown",
+    "image": "https://images.vexels.com/media/users/3/155912/isolated/preview/3e3fefd77cb0dc7cf3882d045f80196a-egyptian-crown-hieroglyphics-symbol-by-vexels.png"
+  },
+  {
+    "id": 2,
+    "name": "tiers",
+    "image": "https://images.vexels.com/media/users/3/155918/isolated/preview/bc4406844869059ddd760e24ac82a5a7-egyptian-eye-with-flowing-tears-hieroglyphs-symbol-by-vexels.png"
+  },
+  {
+    "id": 3,
+    "name": "antlers",
+    "image": "https://images.vexels.com/media/users/3/155936/isolated/preview/f8af84ef8af60c28ce783e6501e157df-egyptian-hieroglyphics-deer-symbol-by-vexels.png"
+  },
+  {
+    "id": 4,
+    "name": "sight",
+    "image": "https://images.vexels.com/media/users/3/156423/isolated/preview/3eaf557625e4426d854061a51dccb5d0-traditional-egyptian-eye-hieroglyphics-symbol-by-vexels.png"
+  },
+  {
+    "id": 5,
+    "name": "gods",
+    "image": "https://images.vexels.com/media/users/3/155637/isolated/preview/1883f43941c1562d352971332302c8f8-ancient-egypt-gods-hieroglyphics-symbol-by-vexels.png"
+  },
+  {
+    "id": 6,
+    "name": "finger",
+    "image": "https://images.vexels.com/media/users/3/155921/isolated/preview/3c248c6d81cf948ae48c97cbc472fa5c-egyptian-finger-hieroglyphics-symbol-by-vexels.png"
+  },
+  {
+    "id": 7,
+    "name": "eyes",
+    "image": "https://images.vexels.com/media/users/3/155652/isolated/preview/885cef5de29fca521c468ac4b32a279f-ancient-egyptian-hieroglyphics-symbol-by-vexels.png"
+  },
+  {
+    "id": 8,
+    "name": "deer",
+    "image": "https://images.vexels.com/media/users/3/156418/isolated/preview/5fa932b53fbef1e7f4583224abf15a49-traditional-animal-egyptian-symbol-by-vexels.png"
+  },
+  {
+    "id": 9,
+    "name": "sitting",
+    "image": "https://images.vexels.com/media/users/3/155962/isolated/preview/8f5a7c79f01ba3190ac7faa5e0a948fe-egyptian-seated-woman-hieroglyphics-symbol-by-vexels.png"
+  },
+  {
+    "id": 10,
+    "name": "hair",
+    "image": "https://images.vexels.com/media/users/3/155933/isolated/preview/ac40bc80faca4e99bd91672a1caf9842-egyptian-hair-hieroglyphics-symbol-by-vexels.png"
+  },
+  {
+    "id": 11,
+    "name": "cat",
+    "image": "https://images.vexels.com/media/users/3/155971/isolated/preview/616896dc4508b4aa6cb2b450d2c21906-egyptian-traditional-animal-hieroglyphics-symbol-by-vexels.png"
+  },
+  {
+    "id": 12,
+    "name": "harvest",
+    "image": "https://images.vexels.com/media/users/3/155654/isolated/preview/af45774722bbf5fedd14545e8482e1cb-ancient-egyptian-hieroglyphs-symbol-by-vexels.png"
+  }
+]
