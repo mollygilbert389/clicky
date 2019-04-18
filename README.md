@@ -4,7 +4,7 @@
   
 Play it yourself here: https://mollywoodhieroglyphguess.herokuapp.com/</p>
 
-This app was created using react. 
+This app was created using react and react bootstrap.
 
 <h2> Getting started </h2>
 
@@ -13,7 +13,7 @@ It's simple clone the repository, then run npm start in the terminal at the src 
 <h2> Prerequisites </h2>
 
 npm install react
-
+npm install react-bootstrap
 
 <h2> Deployement </h2>
 
