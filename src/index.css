@@ -1,12 +1,15 @@
 * {
   box-sizing: border-box;
   font-family: sans-serif;
+
 }
 
 html, body, #root {
+  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/93NxU-b/loopable-tileable-stars-pattern-realistic-stars-slowly-twinkle-in-the-night-sky-seamless-tile-can-be-combined-into-8k-or-larger-frame-by-placing-clip-copies-side-by-side_vkpg6uy2__F0000.png");
   padding: 0;
   margin: 0;
   height: 100%;
+
 }
 
 .message {
