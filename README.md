@@ -11,9 +11,10 @@ This app was created using react and react bootstrap.
 It's simple clone the repository, then run npm start in the terminal at the src file level. This will run on local host 3000. 
 
 <h2> Prerequisites </h2>
-
-npm install react
-npm install react-bootstrap
+<ul>
+<li>npm install react </li>
+<li>npm install react-bootstrap</li>
+</ul>
 
 <h2> Deployement </h2>
 
